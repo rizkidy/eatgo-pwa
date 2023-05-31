@@ -107,7 +107,6 @@ body {
   display: flex;
   align-items: center;
   text-align: center;
-  min-height: 500px;
   margin-top: 20px;
   width: 100%;
   background-image: url('../public/images/heros/hero-image_2.jpg');
